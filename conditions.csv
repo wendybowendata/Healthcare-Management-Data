@@ -1,0 +1,4 @@
+condition_id,patient_id,condition_name,diagnosis_date
+458877,1,diabetes,5/22/2022
+346887,2,hypertension,1/30/2019
+912214,3,asthma,7/8/2021
